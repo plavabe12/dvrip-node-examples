@@ -1,0 +1,15 @@
+{
+  "name": "dvrip",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Ebraheem AlAthari",
+  "license": "MIT",
+  "dependencies": {
+    "nimble": "0.0.2",
+    "onvif": "^0.6.0"
+  }
+}
